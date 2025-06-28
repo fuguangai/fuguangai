@@ -1,0 +1,120 @@
+{
+  "single_case": [
+    { "row": 1,
+      "column": 1,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/015_15_repeat-0.mp4"
+    },
+    { "row": 1,
+      "column": 2,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/013_13_repeat-0.mp4"
+    },
+    { "row": 1,
+      "column": 3,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/005_5_repeat-0.mp4"
+    },
+    { "row": 2,
+      "column": 1,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/006_6_repeat-0.mp4"
+    },
+    { "row": 2,
+      "column": 2,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/022_22_repeat-0.mp4"
+    },
+    { "row": 2,
+      "column": 3,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/029_29_repeat-0.mp4"
+    },
+    { "row": 3,
+      "column": 1,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/031_31_repeat-0.mp4"
+    },
+    { "row": 3,
+      "column": 2,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/000_0_repeat-0.mp4"
+    },
+    { "row": 3,
+      "column": 3,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/002_2_repeat-0.mp4"
+    },
+    { "row": 4,
+      "column": 1,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/001_1_repeat-0.mp4"
+    },
+    { "row": 4,
+      "column": 2,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0624精选/005_5_repeat-0.mp4"
+    },
+    { "row": 4,
+      "column": 3,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/010_10_repeat-0.mp4"
+    },
+    { "row": 5,
+      "column": 1,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/012_12_repeat-0.mp4"
+    },
+    { "row": 5,
+      "column": 2,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/032_32_repeat-0.mp4"
+    },
+    { "row": 5,
+      "column": 3,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/027_27_repeat-0.mp4"
+    },
+    { "row": 6,
+      "column": 1,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0622精选/processed_055_47_repeat-0.mp4"
+    },
+    { "row": 6,
+      "column": 2,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0622精选/processed_003_3_repeat-0.mp4"
+    },
+    { "row": 6,
+      "column": 3,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0622精选/processed_014_11_repeat-0.mp4"
+    },
+    { "row": 7,
+      "column": 1,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0622精选/processed_046_38_repeat-0.mp4"
+    },
+    { "row": 7,
+      "column": 2,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0624精选/014_14_repeat-0.mp4"
+    },
+    { "row": 7,
+      "column": 3,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0623精选/023_23_repeat-0.mp4"
+    },
+    { "row": 8,
+      "column": 1,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0624精选/001_1_repeat-0.mp4"
+    },
+    { "row": 8,
+      "column": 2,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0624精选/003_3_repeat-0.mp4"
+    },
+    { "row": 8,
+      "column": 3,
+      "path_id": "fuli_ai视频素材0623-22精选/fuli_ai视频素材0624精选/017_17_repeat-0.mp4"
+    }
+  ],
+  "comparison_case": [
+    {"row": 1,
+      "path_id": "/static/videos/comparison/0001.mp4"
+    },
+    {"row": 2,
+      "path_id": "/static/videos/comparison/0002.mp4"
+    },
+    {"row": 3,
+      "path_id": "/static/videos/comparison/0003.mp4"
+    },
+    {"row": 4,
+      "path_id": "/static/videos/comparison/0005.mp4"
+    },
+    {"row": 5,
+      "path_id": "/static/videos/comparison/0008.mp4"
+    },
+    {"row": 6,
+      "path_id": "/static/videos/comparison/0007.mp4"
+    }
+  ]
+}
